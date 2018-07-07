@@ -6,7 +6,9 @@
 </head>
 
 
+
 <body>
+//test
 <form method="post" action="" >
 <table align="center" width="500px" style="background-color:#6FF; border:solid #FC0 thin" cellpadding="10px"> 
 	<tr> 
